@@ -1,0 +1,159 @@
+text column max_len: 822
+input column max_len: 858
+-------------fold:0 training-------------
+text column max_len: 822
+input column max_len: 858
+-------------fold:0 training-------------
+-------------fold:0 training-------------
+Epoch 1 Step 1560 - avg_train_loss: 0.4703  avg_val_loss: 0.2559
+Epoch 1 Step 1560 - Score: 0.4994
+Epoch 1 Step 1560 - Save Best Score: 0.4994 Model
+Epoch 1 Step 3120 - avg_train_loss: 0.3857  avg_val_loss: 0.2735
+Epoch 1 Step 3120 - Score: 0.5133
+Epoch 1 Step 4680 - avg_train_loss: 0.3492  avg_val_loss: 0.2855
+Epoch 1 Step 4680 - Score: 0.5292
+Epoch 1 - avg_train_loss: 0.3426  avg_val_loss: 0.2855  time: 2374s
+Epoch 1 - Score: 0.5292
+Epoch 2 Step 1560 - avg_train_loss: 0.2070  avg_val_loss: 0.2764
+Epoch 2 Step 1560 - Score: 0.5172
+Epoch 2 Step 3120 - avg_train_loss: 0.2042  avg_val_loss: 0.2624
+Epoch 2 Step 3120 - Score: 0.5079
+Epoch 2 Step 4680 - avg_train_loss: 0.2013  avg_val_loss: 0.3369
+Epoch 2 Step 4680 - Score: 0.5771
+Epoch 2 - avg_train_loss: 0.1997  avg_val_loss: 0.3369  time: 2280s
+Epoch 2 - Score: 0.5771
+Epoch 3 Step 1560 - avg_train_loss: 0.1148  avg_val_loss: 0.2772
+Epoch 3 Step 1560 - Score: 0.5239
+Epoch 3 Step 3120 - avg_train_loss: 0.1119  avg_val_loss: 0.2619
+Epoch 3 Step 3120 - Score: 0.5108
+Epoch 3 Step 4680 - avg_train_loss: 0.1110  avg_val_loss: 0.2378
+Epoch 3 Step 4680 - Score: 0.4853
+Epoch 3 Step 4680 - Save Best Score: 0.4853 Model
+Epoch 3 - avg_train_loss: 0.1113  avg_val_loss: 0.2378  time: 2316s
+Epoch 3 - Score: 0.4853
+Epoch 4 Step 1560 - avg_train_loss: 0.0610  avg_val_loss: 0.2519
+Epoch 4 Step 1560 - Score: 0.5004
+Epoch 4 Step 3120 - avg_train_loss: 0.0621  avg_val_loss: 0.2589
+Epoch 4 Step 3120 - Score: 0.5063
+Epoch 4 Step 4680 - avg_train_loss: 0.0603  avg_val_loss: 0.2585
+Epoch 4 Step 4680 - Score: 0.5054
+Epoch 4 - avg_train_loss: 0.0599  avg_val_loss: 0.2585  time: 2258s
+Epoch 4 - Score: 0.5054
+========== fold: 0 result ==========
+Score: 0.4853
+-------------fold:1 training-------------
+Epoch 1 Step 1560 - avg_train_loss: 0.3932  avg_val_loss: 0.4586
+Epoch 1 Step 1560 - Score: 0.6643
+Epoch 1 Step 1560 - Save Best Score: 0.6643 Model
+Epoch 1 Step 3120 - avg_train_loss: 0.3282  avg_val_loss: 0.6864
+Epoch 1 Step 3120 - Score: 0.8036
+Epoch 1 Step 4680 - avg_train_loss: 0.3069  avg_val_loss: 0.6004
+Epoch 1 Step 4680 - Score: 0.7456
+Epoch 1 - avg_train_loss: 0.3003  avg_val_loss: 0.6004  time: 2315s
+Epoch 1 - Score: 0.7456
+Epoch 2 Step 1560 - avg_train_loss: 0.1818  avg_val_loss: 0.5023
+Epoch 2 Step 1560 - Score: 0.6860
+Epoch 2 Step 3120 - avg_train_loss: 0.1780  avg_val_loss: 0.5612
+Epoch 2 Step 3120 - Score: 0.7263
+Epoch 2 Step 4680 - avg_train_loss: 0.1771  avg_val_loss: 0.5027
+Epoch 2 Step 4680 - Score: 0.6867
+Epoch 2 - avg_train_loss: 0.1759  avg_val_loss: 0.5027  time: 2246s
+Epoch 2 - Score: 0.6867
+Epoch 3 Step 1560 - avg_train_loss: 0.0980  avg_val_loss: 0.4635
+Epoch 3 Step 1560 - Score: 0.6582
+Epoch 3 Step 1560 - Save Best Score: 0.6582 Model
+Epoch 3 Step 3120 - avg_train_loss: 0.0983  avg_val_loss: 0.4314
+Epoch 3 Step 3120 - Score: 0.6370
+Epoch 3 Step 3120 - Save Best Score: 0.6370 Model
+Epoch 3 Step 4680 - avg_train_loss: 0.0940  avg_val_loss: 0.4901
+Epoch 3 Step 4680 - Score: 0.6772
+Epoch 3 - avg_train_loss: 0.0934  avg_val_loss: 0.4901  time: 2270s
+Epoch 3 - Score: 0.6772
+Epoch 4 Step 1560 - avg_train_loss: 0.0459  avg_val_loss: 0.4715
+Epoch 4 Step 1560 - Score: 0.6638
+Epoch 4 Step 3120 - avg_train_loss: 0.0469  avg_val_loss: 0.4934
+Epoch 4 Step 3120 - Score: 0.6765
+Epoch 4 Step 4680 - avg_train_loss: 0.0469  avg_val_loss: 0.4775
+Epoch 4 Step 4680 - Score: 0.6677
+Epoch 4 - avg_train_loss: 0.0465  avg_val_loss: 0.4775  time: 2340s
+Epoch 4 - Score: 0.6677
+========== fold: 1 result ==========
+Score: 0.6370
+-------------fold:2 training-------------
+Epoch 1 Step 1560 - avg_train_loss: 0.4463  avg_val_loss: 0.3278
+Epoch 1 Step 1560 - Score: 0.5639
+Epoch 1 Step 1560 - Save Best Score: 0.5639 Model
+Epoch 1 Step 3120 - avg_train_loss: 0.3781  avg_val_loss: 0.2268
+Epoch 1 Step 3120 - Score: 0.4743
+Epoch 1 Step 3120 - Save Best Score: 0.4743 Model
+Epoch 1 Step 4680 - avg_train_loss: 0.3423  avg_val_loss: 0.3647
+Epoch 1 Step 4680 - Score: 0.6031
+Epoch 1 - avg_train_loss: 0.3358  avg_val_loss: 0.3647  time: 2365s
+Epoch 1 - Score: 0.6031
+Epoch 2 Step 1560 - avg_train_loss: 0.2008  avg_val_loss: 0.2854
+Epoch 2 Step 1560 - Score: 0.5282
+Epoch 2 Step 3120 - avg_train_loss: 0.2008  avg_val_loss: 0.2624
+Epoch 2 Step 3120 - Score: 0.5084
+Epoch 2 Step 4680 - avg_train_loss: 0.1965  avg_val_loss: 0.3396
+Epoch 2 Step 4680 - Score: 0.5667
+Epoch 2 - avg_train_loss: 0.1965  avg_val_loss: 0.3396  time: 2243s
+Epoch 2 - Score: 0.5667
+Epoch 3 Step 1560 - avg_train_loss: 0.1017  avg_val_loss: 0.2764
+Epoch 3 Step 1560 - Score: 0.5206
+Epoch 3 Step 3120 - avg_train_loss: 0.1065  avg_val_loss: 0.2708
+Epoch 3 Step 3120 - Score: 0.5139
+Epoch 3 Step 4680 - avg_train_loss: 0.1050  avg_val_loss: 0.3257
+Epoch 3 Step 4680 - Score: 0.5583
+Epoch 3 - avg_train_loss: 0.1049  avg_val_loss: 0.3257  time: 2243s
+Epoch 3 - Score: 0.5583
+Epoch 4 Step 1560 - avg_train_loss: 0.0585  avg_val_loss: 0.2695
+Epoch 4 Step 1560 - Score: 0.5125
+Epoch 4 Step 3120 - avg_train_loss: 0.0568  avg_val_loss: 0.2840
+Epoch 4 Step 3120 - Score: 0.5251
+Epoch 4 Step 4680 - avg_train_loss: 0.0559  avg_val_loss: 0.2845
+Epoch 4 Step 4680 - Score: 0.5256
+Epoch 4 - avg_train_loss: 0.0558  avg_val_loss: 0.2845  time: 2243s
+Epoch 4 - Score: 0.5256
+========== fold: 2 result ==========
+Score: 0.4743
+-------------fold:3 training-------------
+Epoch 1 Step 1560 - avg_train_loss: 0.4375  avg_val_loss: 0.6231
+Epoch 1 Step 1560 - Score: 0.7782
+Epoch 1 Step 1560 - Save Best Score: 0.7782 Model
+Epoch 1 Step 3120 - avg_train_loss: 0.3551  avg_val_loss: 0.3842
+Epoch 1 Step 3120 - Score: 0.6155
+Epoch 1 Step 3120 - Save Best Score: 0.6155 Model
+Epoch 1 Step 4680 - avg_train_loss: 0.3254  avg_val_loss: 0.3776
+Epoch 1 Step 4680 - Score: 0.6076
+Epoch 1 Step 4680 - Save Best Score: 0.6076 Model
+Epoch 1 - avg_train_loss: 0.3060  avg_val_loss: 0.3776  time: 2090s
+Epoch 1 - Score: 0.6076
+Epoch 2 Step 1560 - avg_train_loss: 0.1922  avg_val_loss: 0.4231
+Epoch 2 Step 1560 - Score: 0.6492
+Epoch 2 Step 3120 - avg_train_loss: 0.1902  avg_val_loss: 0.3330
+Epoch 2 Step 3120 - Score: 0.5712
+Epoch 2 Step 3120 - Save Best Score: 0.5712 Model
+Epoch 2 Step 4680 - avg_train_loss: 0.1881  avg_val_loss: 0.3791
+Epoch 2 Step 4680 - Score: 0.6141
+Epoch 2 - avg_train_loss: 0.1832  avg_val_loss: 0.3791  time: 2079s
+Epoch 2 - Score: 0.6141
+Epoch 3 Step 1560 - avg_train_loss: 0.1077  avg_val_loss: 0.3776
+Epoch 3 Step 1560 - Score: 0.6130
+Epoch 3 Step 3120 - avg_train_loss: 0.1021  avg_val_loss: 0.3932
+Epoch 3 Step 3120 - Score: 0.6262
+Epoch 3 Step 4680 - avg_train_loss: 0.0984  avg_val_loss: 0.4520
+Epoch 3 Step 4680 - Score: 0.6722
+Epoch 3 - avg_train_loss: 0.0961  avg_val_loss: 0.4520  time: 2071s
+Epoch 3 - Score: 0.6722
+Epoch 4 Step 1560 - avg_train_loss: 0.0461  avg_val_loss: 0.4502
+Epoch 4 Step 1560 - Score: 0.6710
+Epoch 4 Step 3120 - avg_train_loss: 0.0449  avg_val_loss: 0.4693
+Epoch 4 Step 3120 - Score: 0.6849
+Epoch 4 Step 4680 - avg_train_loss: 0.0453  avg_val_loss: 0.4566
+Epoch 4 Step 4680 - Score: 0.6757
+Epoch 4 - avg_train_loss: 0.0449  avg_val_loss: 0.4566  time: 2071s
+Epoch 4 - Score: 0.6757
+========== fold: 3 result ==========
+Score: 0.5712
+========== CV ==========
+Score: 0.5439

@@ -1,0 +1,6 @@
+024 : deberta-v3-base, maxlen = 512, head_tail_token
+024_2 : 024, maxlen = 822(summary text max length), head_tail_token
+024_3 : 024, maxlen = 858(input max length)
+024_4 : 024, maxlen = 850(input max length), fixed_summary_text, LB:0.447, SEED = 2022
+024_4_1 : different seed, SEED = 42
+025 : deberta-v3-large
