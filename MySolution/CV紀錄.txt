@@ -1,0 +1,32 @@
+Base 1 : content = 0.4868, wording = 0.6804, cv = 0.5837
+
+Base 2 : content = 0.4649, wording = 0.6608, cv = 0.5629
+
+Base 3 : content = 0.4675, wording = 0.6583, cv = 0.5629
+
+Base 4 : content = 0.4676, wording = 0.6423, cv = 0.5550
+
+Base 5 : 很爛
+
+Base 6 : 很爛
+
+Base 7 : content = 0.4762, wording = 0.6294, cv = 0.5528
+
+fold 0 : Score: 0.4979  Scores: [0.41931369977949334, 0.5765008314784879]
+fold 1 : Score: 0.6469  Scores: [0.5420417793199782, 0.7518243813463438]
+fold 2 : Score: 0.4807  Scores: [0.42989967870803686, 0.5315797533118303]
+fold 3 : Score: 0.5839  Scores: [0.5250016607844141, 0.6427950932760954]
+
+Base 8 : Score: 0.5640  Scores: [0.47741342556185823, 0.6506703167513108]
+
+Base 9 : Score: 0.5418  Scores: [0.4599398716231111, 0.6237528467858217]
+
+========================================================
+別人的notebook
+
+NOGAWANOGAWA
+1.Debertav3+LGBM (no autocorrect) : debertav3 = content = 0.4686, wording = 0.6278, cv = 0.5482
+
+2.[updated]Debertav3+LGBM with spell autocorrect: 
+
+debertav3 = content = 0.4877, wording = 0.6211, cv = 0. cv = 0.5544

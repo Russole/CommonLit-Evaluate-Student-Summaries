@@ -1,0 +1,29 @@
+FB3_13th_solution/025_3 :
+
+train : without fixed summary
+infer : fixed summary
+
+input :             train["prompt_title"] + sep 
+                    + train["prompt_question"] + sep 
+                    + train["text"]
+
+deberta v3 large : cv = 0.5439
+deberta v3 large + lgbm : cv = 0.5139
+
+puble_lb = 0.43954
+private_lb = 0.478
+
+Base 9 :
+
+train : without fixed summary
+infer : fixed summary
+
+input :               train["prompt_title"] + sep 
+                    + train["prompt_question"] + sep 
+                    + train["text"]
+
+deberta v3 base : cv = 0.5418
+deberta v3 base + lgbm : cv = 0.4969
+
+puble_lb = 0.47758
+private_lb = 0.48167

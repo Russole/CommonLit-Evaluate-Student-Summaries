@@ -1,0 +1,4 @@
+fork of Tuned Debertav3+LGBM/for 1 : LB = 0.444, Before LGBM CV = 0.548, After LGBM CV = 0.498
+FB3_13th_solution/024_4 : LB = 0.447, Before LGBM CV = 0.557, After LGBM CV = 0.518
+kaggle 上 deberta-v3 just avg_pool ver 2: LB = 0.452, Before LGBM CV = 0.540, After LGBM CV = 0.503
+
